@@ -1,6 +1,6 @@
 # 🚀 Desafio DIO – Gerenciamento de Instâncias EC2 na AWS
 
-Este repositório documenta meus aprendizados no desafio da **Digital Innovation One (DIO)**, com foco no **gerenciamento de instâncias EC2 da AWS**. O objetivo principal foi aprofundar o conhecimento sobre como configurar, utilizar e integrar instâncias de computação em nuvem com outros serviços essenciais da AWS, além de desenvolver a capacidade de **documentar arquiteturas de sistemas** de forma clara e organizada.
+Este repositório documenta meus aprendizados no desafio da **DIO**, com foco no **gerenciamento de instâncias EC2 da AWS**. O objetivo principal foi aprofundar o conhecimento sobre como configurar, utilizar e integrar instâncias de computação em nuvem com outros serviços essenciais da AWS, além de desenvolver a capacidade de **documentar arquiteturas de sistemas** de forma clara e organizada.
 
 ---
 
