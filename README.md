@@ -68,7 +68,3 @@ Para aplicar os conceitos estudados, desenvolvi um **cenário de plataforma de e
 - **Markdown:** documentação técnica  
 
 ---
-
-## ✅ Conclusão
-
-Este desafio foi essencial para aprofundar meus conhecimentos em **infraestrutura em nuvem**, especialmente sobre EC2 e sua integração com outros serviços AWS. Além disso, contribuiu para aprimorar minhas habilidades em **documentação técnica, planejamento de sistemas e visualização de arquiteturas complexas**, permitindo demonstrar de forma prática como construir **plataformas escaláveis e seguras** no ambiente de nuvem.
