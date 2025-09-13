@@ -60,5 +60,5 @@ Para aplicar os conceitos estudados, desenvolvi um **cenário de plataforma de e
 💡 Este cenário demonstra como a AWS pode ser utilizada para criar uma **plataforma educacional escalável e segura**, permitindo que alunos acessem conteúdos, concluam cursos e recebam certificados digitais de forma prática e confiável.
 
 ---
-
+![Diagrama da Arquitetura](desafio01.png)
 
