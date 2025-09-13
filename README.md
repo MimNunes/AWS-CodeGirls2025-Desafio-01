@@ -61,10 +61,4 @@ Para aplicar os conceitos estudados, desenvolvi um **cenário de plataforma de e
 
 ---
 
-## 📎 Tecnologias e Ferramentas Utilizadas
 
-- **AWS:** EC2, EBS, S3, Lambda  
-- **Draw.io:** criação de diagramas de arquitetura  
-- **Markdown:** documentação técnica  
-
----
